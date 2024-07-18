@@ -20,6 +20,7 @@
 #include <utility>
 #include <vector> 
 #include <map>
+#include <cstddef>
 
 namespace yisi {
 
